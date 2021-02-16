@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "267764071376",
+    "firebase_url": "https://law-of-bangladesh-default-rtdb.firebaseio.com",
+    "project_id": "law-of-bangladesh",
+    "storage_bucket": "law-of-bangladesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267764071376:android:b0e7a00c68c2a6e72e17d5",
+        "android_client_info": {
+          "package_name": "com.example.lawofbangladesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267764071376-r9f8f99jj5dkq5l2tg54ssls7o097h1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCJlGXVBxn5aK3tFmX9Nb1VsPCzXCL7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267764071376-r9f8f99jj5dkq5l2tg54ssls7o097h1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267764071376:android:9b3949b6b87d4a8e2e17d5",
+        "android_client_info": {
+          "package_name": "com.x.poi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267764071376-r9f8f99jj5dkq5l2tg54ssls7o097h1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsCJlGXVBxn5aK3tFmX9Nb1VsPCzXCL7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267764071376-r9f8f99jj5dkq5l2tg54ssls7o097h1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
